@@ -1,0 +1,154 @@
+{
+  "slug": "the-book-which-tells-the-truth",
+  "primaryLang": "fr",
+  "titles": {
+    "fr": "Le Livre Qui Dit la Vérité",
+    "en": "The Book Which Tells the Truth",
+    "de": "Das Buch, das die Wahrheit verkündet",
+    "es": "El Libro que Dice la Verdad",
+    "ru": "Книга, которая говорит правду",
+    "ja": "真実を語る本",
+    "zh": "说真话的书"
+  },
+  "schema": ["book", "chapters", "paragraphs"],
+  "revision": 1,
+  "updated": "2025-07-22T10:00:00Z",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "La Rencontre",
+      "paragraphs": [
+        {
+          "n": 1,
+          "speaker": "Raël",
+          "text": "Depuis l'âge de neuf ans, je n'ai toujours eu qu'une passion : le sport automobile…",
+          "i18n": {
+            "en": "Since I was nine years old I have had only one passion: motor racing…",
+            "de": "Seit ich neun Jahre alt war, habe ich nur eine Leidenschaft: den Motorsport…",
+            "es": "Desde los nueve años he tenido una sola pasión: el automovilismo…",
+            "ru": "С девяти лет у меня была только одна страсть: автомобильный спорт…",
+            "ja": "9歳の頃から、私にはただ一つの情熱がありました：モータースポーツ…",
+            "zh": "从九岁时起，我就只有一个热情：汽车运动…"
+          }
+        },
+        {
+          "n": 2,
+          "speaker": "Raël",
+          "text": "Si j'allais, ce matin du 13 décembre 1973, dans les volcans…",
+          "i18n": {
+            "en": "If I went there this morning, December 13, 1973, into the volcanoes…",
+            "de": "Wenn ich an diesem Morgen, dem 13. Dezember 1973, in die Vulkane…",
+            "es": "Si hoy, 13 de diciembre de 1973, iba a los volcanes…",
+            "ru": "Если я отправился бы сегодня, 13 декабря 1973 года, в вулканы…",
+            "ja": "もし私が1973年12月13日の今朝、火山地帯へ行ったとしたら…",
+            "zh": "如果我在1973年12月13日今天早上去了这些火山…"
+          }
+        },
+        {
+          "n": 3,
+          "speaker": "Raël",
+          "text": "L'air était frais et le ciel plutôt gris avec un fond de brume…",
+          "i18n": {
+            "en": "The air was fresh and the sky rather grey with a misty background…",
+            "de": "Die Luft war frisch und der Himmel recht grau mit einem Dunsthintergrund…",
+            "es": "El aire estaba fresco y el cielo bastante gris con un fondo de niebla…",
+            "ru": "Воздух был свеж и небо довольно серым с туманным фоном…",
+            "ja": "空気はひんやりしていて、空はやや灰色で霧がかかっていました…",
+            "zh": "空气清新，天空相当灰暗，背景有一层薄雾…"
+          }
+        },
+        {
+          "n": 4,
+          "speaker": "Raël",
+          "text": "Deux pieds apparurent, puis deux jambes…",
+          "i18n": {
+            "en": "Two feet appeared, then two legs…",
+            "de": "Zwei Füße tauchten auf, dann zwei Beine…",
+            "es": "Aparecieron dos pies, luego dos piernas…",
+            "ru": "Появились две ноги, затем две ноги…",
+            "ja": "二本の足が現れ、そして二本の脚が…",
+            "zh": "出现了两只脚，然后是两条腿…"
+          }
+        },
+        {
+          "n": 5,
+          "speaker": "Raël",
+          "text": "D'où venez-vous ?",
+          "i18n": {
+            "en": "Where do you come from?",
+            "de": "Woher kommen Sie?",
+            "es": "¿De dónde viene usted?",
+            "ru": "Откуда вы?",
+            "ja": "どこから来たのですか？",
+            "zh": "您来自哪里？"
+          }
+        },
+        {
+          "n": 6,
+          "speaker": "Yahweh",
+          "text": "Il me répondit d'une voix puissante… De très loin...",
+          "i18n": {
+            "en": "He answered me in a powerful, well‑articulated but slightly nasal voice: From very far away…",
+            "de": "Er antwortete mir mit kräftiger, gut artikulierter, leicht nasaler Stimme: Von sehr weit her…",
+            "es": "Me respondió con voz potente, muy bien articulada pero ligeramente nasal: Desde muy lejos…",
+            "ru": "Он ответил мне мощным, чётко артикулированным, но слегка носовым голосом: Из очень далека…",
+            "ja": "彼は力強く非常に明瞭だがやや鼻にかかった声で答えた：とても遠くから…",
+            "zh": "他以一种有力、发音清晰但略带鼻音的声音回答我：来自非常遥远的地方…"
+          }
+        },
+        {
+          "n": 7,
+          "speaker": "Raël",
+          "text": "Vous parlez le français ?",
+          "i18n": {
+            "en": "You speak French?",
+            "de": "Sprechen Sie Französisch?",
+            "es": "¿Habla francés?",
+            "ru": "Вы говорите по-французски?",
+            "ja": "フランス語を話せますか？",
+            "zh": "您会说法语吗？"
+          }
+        },
+        {
+          "n": 8,
+          "speaker": "Yahweh",
+          "text": "Je parle toutes les langues du monde.",
+          "i18n": {
+            "en": "I speak all the languages of the world.",
+            "de": "Ich spreche alle Sprachen der Welt.",
+            "es": "Hablo todos los idiomas del mundo.",
+            "ru": "Я говорю на всех языках мира.",
+            "ja": "私は世界のすべての言語を話します。",
+            "zh": "我会说世界上所有语言。"
+          }
+        },
+        {
+          "n": 9,
+          "speaker": "Raël",
+          "text": "Vous venez d'une autre planète ?",
+          "i18n": {
+            "en": "Are you from another planet?",
+            "de": "Kommen Sie von einem anderen Planeten?",
+            "es": "¿Viene de otro planeta?",
+            "ru": "Вы с другой планеты?",
+            "ja": "他の惑星から来たのですか？",
+            "zh": "您来自另一个星球吗？"
+          }
+        },
+        {
+          "n": 10,
+          "speaker": "Yahweh",
+          "text": "Oui.",
+          "i18n": {
+            "en": "Yes.",
+            "de": "Ja.",
+            "es": "Sí.",
+            "ru": "Да.",
+            "ja": "はい。",
+            "zh": "是的。"
+          }
+        }
+      ]
+    }
+  ]
+}
