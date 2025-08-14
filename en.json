@@ -1,0 +1,839 @@
+{
+  "slug": "the-book-which-tells-the-truth",
+  "publicationYear": 1973,
+  "primaryLang": "fr",
+  "titles": {
+    "fr": "Le Livre Qui Dit la Vérité",
+    "en": "The Book Which Tells the Truth",
+    "de": "Das Buch, das die Wahrheit verkündet",
+    "es": "El Libro que Dice la Verdad",
+    "ru": "Книга, которая говорит правду",
+    "ja": "真実を語る本",
+    "zh": "说真话的书"
+  },
+  "schema": ["book", "chapters", "paragraphs"],
+  "revision": 1,
+  "updated": "2025-08-10T06:03:56Z",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "La Rencontre",
+      "i18n": {
+        "en": "The Encounter",
+        "de": "",
+        "es": "",
+        "ru": "",
+        "ja": "",
+        "zh": ""
+      },
+      "paragraphs": [
+        {
+          "n": 1,
+          "speaker": "Narrator",
+          "text": "Depuis l’âge de neuf ans, je n’ai toujours eu qu’une passion : le sport automobile, et si j’ai créé une revue spécialisée dans cette branche voilà trois ans, c’est pour vivre dans ce milieu si excitant où l’homme cherche à se dépasser lui-même en dépassant les autres. Depuis ma plus tendre enfance je rêvais d’être un jour pilote de course et me voyais marchant sur les traces de Fangio. J’ai pu, grâce aux relations que m’a procurées le journal que j’ai fondé, courir moi-même et toujours d’une manière assez brillante, une dizaine de coupes ornant maintenant mon appartement.",
+          "i18n": {
+            "en": "Since the age of nine, I have had only one passion: motor racing. If I created a magazine devoted to this field three years ago, it was so I could live in that thrilling milieu where a person seeks to surpass himself by surpassing others. From my earliest childhood I dreamed of being a racing driver one day, following in Fangio’s footsteps. Thanks to the contacts my magazine brought me, I was able to race myself—and generally with some success; a dozen trophies now adorn my apartment.",
+            "de": "",
+            "es": "",
+            "ru": "",
+            "ja": "",
+            "zh": ""
+          }
+        },
+        {
+          "n": 2,
+          "speaker": "Narrator",
+          "text": "Si j’allais, ce matin du 13 décembre 1973, dans les volcans qui dominent Clermont-Ferrand, c’était plus pour m’oxygéner un peu que pour faire de la voiture. Et puis les jambes me démangeaient après une année à suivre les courses, de circuit en circuit, vivant presque tout le temps sur quatre roues.",
+          "i18n": {
+            "en": "On the morning of December 13, 1973, when I headed into the volcanoes overlooking Clermont-Ferrand, it was more to breathe some fresh air than to drive. And after a year spent following races, from circuit to circuit, living almost all the time on four wheels, my legs were itching.",
+            "de": "",
+            "es": "",
+            "ru": "",
+            "ja": "",
+            "zh": ""
+          }
+        },
+        {
+          "n": 3,
+          "speaker": "Narrator",
+          "text": "L’air était frais et le ciel plutôt gris avec un fond de brume. Je marchais et faisais un peu de «footing». J’avais quitté le chemin où j’avais garé ma voiture et m’étais fixé pour but d’aller jusqu’au centre du cratère du «Puy-de- Lassolas» où je venais souvent pique-niquer en famille, l’été. Quel lieu magnifique et exaltant. Penser que voici quelques milliers d’années, là où mes pieds touchaient le sol, la lave jaillissait à des températures incroyablement élevées… Parmi les scories on peut encore trouver des bombes volcaniques très décoratives. La végétation rabougrie fait un peu penser à la Provence, le soleil en moins… J’allais repartir et regardais une dernière fois les sommets de la montagne circulaire faite par l’amoncellement de scories. Que de fois je m’étais amusé à me laisser glisser comme à skis le long de ces pentes abruptes. Soudain, dans la brume, j’aperçus une lumière rouge clignotante, puis une espèce d’hélicoptère qui descendait vers moi. Mais un hélicoptère fait du bruit, or là, je n’entendais absolument rien, même pas le plus petit sifflement. Un ballon? L’engin était maintenant à une vingtaine de mètres d’altitude et je m’aperçus qu’il était de forme aplatie. Une soucoupe volante! J’y croyais fermement depuis longtemps mais je n’espérais pas en voir une moi-même un jour. Elle avait environ sept mètres de diamètre, plate au-dessous et conique au-dessus, haute d’environ deux mètres cinquante. À sa base, une violente lumière rouge clignotait et à son sommet une lumière blanche intermittente rappelait le flash d’un appareil photo. Cette lumière blanche était tellement intense que je ne pouvais la regarder sans cligner des yeux. L’engin continua de descendre sans un bruit et s’immobilisa à deux mètres du sol. J’étais pétrifié et restais absolument immobile. Je n’avais pas peur mais étais plein de joie de vivre un tel moment. Je regrettais amèrement de ne pas avoir d’appareil photo. Alors l’incroyable se produisit: une trappe s’ouvrit sous l’appareil et une espèce d’escalier se déplia jusqu’au sol. Je compris qu’un être allait en sortir et je me demandais quelle allure cela allait avoir.",
+          "i18n": {
+            "en": "The air was crisp and the sky rather gray, with a base of mist. I walked and did a bit of jogging. I had left the path where I had parked my car and set myself the goal of reaching the center of the crater of the Puy de Lassolas, where I often went in summer to picnic with my family. What a magnificent and exhilarating place. To think that a few thousand years ago, right where my feet touched the ground, lava was gushing at incredibly high temperatures… Among the scoria you can still find very decorative volcanic bombs. The stunted vegetation is a little reminiscent of Provence—minus the sun… I was about to leave and took one last look at the summit of the circular mountain made by heaps of scoria. How many times I had amused myself by sliding, as if on skis, down those steep slopes. Suddenly, through the mist, I noticed a flashing red light, then a sort of helicopter descending toward me. But a helicopter makes noise—and here I could hear absolutely nothing, not even the faintest whistle. A balloon? The craft was now about twenty meters up, and I realized it was flattened in shape. A flying saucer! I had believed in them firmly for a long time, but I had never hoped to see one myself. It was about seven meters in diameter, flat below and conical above, about two and a half meters high. At its base a violent red light flashed, and at its top an intermittent white light recalled a camera flash. That white light was so intense I couldn’t look at it without blinking. The craft continued to descend without a sound and came to a stop two meters above the ground. I was petrified and remained absolutely motionless. I wasn’t afraid, but filled with joy to be living such a moment. I bitterly regretted not having a camera. Then the incredible happened: a hatch opened beneath the craft and a kind of stairway unfolded to the ground. I understood that a being was about to emerge, and I wondered what it would look like.",
+            "de": "",
+            "es": "",
+            "ru": "",
+            "ja": "",
+            "zh": ""
+          }
+        },
+        {
+          "n": 4,
+          "speaker": "Narrator",
+          "text": "Deux pieds apparurent, puis deux jambes, ce qui me rassura un peu, car apparemment j’allais avoir à faire à un homme. Ce que je pris d’abord pour un enfant apparut enfin complètement, descendit l’escalier et se dirigea droit sur moi. Je vis alors que ce n’était pas un enfant malgré sa taille voisine d’un mètre vingt. Il avait les yeux légèrement bridés, les cheveux noirs et longs et une petite barbe noire. Il s’arrêta à une dizaine de mètres de moi. Je n’avais toujours pas bougé. Il portait une combinaison verte recouvrant tout son corps d’une seule pièce, et si sa tête avait l’air d’être à l’air libre, un étrange halo l’entourait. Pas vraiment un halo mais comme si l’air autour de son visage brillait légèrement et vibrait. Cela faisait comme un scaphandre invisible, comme une bulle tellement fine qu’on l’apercevrait à peine. Sa peau était blanche mais tirant légèrement sur le vert, un peu comme un homme qui aurait mal au foie. Il me sourit légèrement. Je pensais que le mieux était de répondre à ce sourire. Je n’étais pas tranquille. Je souris également et inclinai légèrement la tête en signe de bonjour. Il me répondit par le même signe. Pensant qu’il fallait que je voie s’il pouvait m’entendre, je lui demandai:",
+          "i18n": {
+            "en": "Two feet appeared, then two legs, which reassured me a little, for it seemed I was about to deal with a man. What I first took for a child finally appeared completely, came down the steps, and walked straight toward me. I then saw that it was not a child, despite a height of around one meter twenty. He had slightly slanted eyes, long black hair, and a small black beard. He stopped about ten meters from me. I still hadn’t moved. He wore a green one-piece suit covering his whole body, and though his head seemed bare, a strange halo surrounded it—not exactly a halo, more as if the air around his face shone faintly and vibrated. It was like an invisible diving helmet, a bubble so thin you could hardly see it. His skin was white with a slight greenish tinge, like a man with a bad liver. He smiled faintly at me. I thought the best thing was to answer his smile. I was not at ease. I smiled back and inclined my head slightly in greeting. He replied with the same gesture. Thinking I should see if he could hear me, I asked him:",
+            "de": "",
+            "es": "",
+            "ru": "",
+            "ja": "",
+            "zh": ""
+          }
+        },
+        {
+          "n": 5,
+          "speaker": "Raël",
+          "text": "D’où venez-vous?",
+          "i18n": {
+            "en": "Where do you come from?",
+            "de": "",
+            "es": "",
+            "ru": "",
+            "ja": "",
+            "zh": ""
+          }
+        },
+        {
+          "n": 6,
+          "speaker": "Narrator",
+          "text": "Il me répondit d’une voix puissante, très bien articulée mais légèrement nasillarde:",
+          "i18n": {
+            "en": "He answered in a powerful voice, very clearly articulated but slightly nasal:",
+            "de": "",
+            "es": "",
+            "ru": "",
+            "ja": "",
+            "zh": ""
+          }
+        },
+        {
+          "n": 7,
+          "speaker": "Yahweh",
+          "text": "De très loin...",
+          "i18n": {
+            "en": "From very far away…",
+            "de": "",
+            "es": "",
+            "ru": "",
+            "ja": "",
+            "zh": ""
+          }
+        },
+        {
+          "n": 8,
+          "speaker": "Raël",
+          "text": "Vous parlez le français?",
+          "i18n": {
+            "en": "Do you speak French?",
+            "de": "",
+            "es": "",
+            "ru": "",
+            "ja": "",
+            "zh": ""
+          }
+        },
+        {
+          "n": 9,
+          "speaker": "Yahweh",
+          "text": "Je parle toutes les langues du monde.",
+          "i18n": {
+            "en": "I speak all the languages of the world.",
+            "de": "",
+            "es": "",
+            "ru": "",
+            "ja": "",
+            "zh": ""
+          }
+        },
+        {
+          "n": 10,
+          "speaker": "Raël",
+          "text": "Vous venez d’une autre planète?",
+          "i18n": {
+            "en": "Do you come from another planet?",
+            "de": "",
+            "es": "",
+            "ru": "",
+            "ja": "",
+            "zh": ""
+          }
+        },
+        {
+          "n": 11,
+          "speaker": "Yahweh",
+          "text": "Oui.",
+          "i18n": {
+            "en": "Yes.",
+            "de": "",
+            "es": "",
+            "ru": "",
+            "ja": "",
+            "zh": ""
+          }
+        },
+        {
+          "n": 12,
+          "speaker": "Narrator",
+          "text": "En parlant il s’était approché à environ deux mètres de moi.",
+          "i18n": {
+            "en": "As he spoke, he had moved to within about two meters of me.",
+            "de": "",
+            "es": "",
+            "ru": "",
+            "ja": "",
+            "zh": ""
+          }
+        },
+        {
+          "n": 13,
+          "speaker": "Raël",
+          "text": "C’est la première fois que vous venez sur la Terre?",
+          "i18n": {
+            "en": "Is this the first time you have come to Earth?",
+            "de": "",
+            "es": "",
+            "ru": "",
+            "ja": "",
+            "zh": ""
+          }
+        },
+        {
+          "n": 14,
+          "speaker": "Yahweh",
+          "text": "Oh non!",
+          "i18n": {
+            "en": "Oh no!",
+            "de": "",
+            "es": "",
+            "ru": "",
+            "ja": "",
+            "zh": ""
+          }
+        },
+        {
+          "n": 15,
+          "speaker": "Raël",
+          "text": "Vous y êtes venu très souvent?",
+          "i18n": {
+            "en": "Have you come here very often?",
+            "de": "",
+            "es": "",
+            "ru": "",
+            "ja": "",
+            "zh": ""
+          }
+        },
+        {
+          "n": 16,
+          "speaker": "Yahweh",
+          "text": "Très souvent... c’est le moins qu’on puisse dire.",
+          "i18n": {
+            "en": "Very often… to say the least.",
+            "de": "",
+            "es": "",
+            "ru": "",
+            "ja": "",
+            "zh": ""
+          }
+        },
+        {
+          "n": 17,
+          "speaker": "Raël",
+          "text": "Que venez-vous y faire ?",
+          "i18n": {
+            "en": "What do you come here to do?",
+            "de": "",
+            "es": "",
+            "ru": "",
+            "ja": "",
+            "zh": ""
+          }
+        },
+        {
+          "n": 18,
+          "speaker": "Yahweh",
+          "text": "Aujourd’hui, vous parler.",
+          "i18n": {
+            "en": "Today, to speak to you.",
+            "de": "",
+            "es": "",
+            "ru": "",
+            "ja": "",
+            "zh": ""
+          }
+        },
+        {
+          "n": 19,
+          "speaker": "Raël",
+          "text": "À moi?",
+          "i18n": {
+            "en": "To me?",
+            "de": "",
+            "es": "",
+            "ru": "",
+            "ja": "",
+            "zh": ""
+          }
+        },
+        {
+          "n": 20,
+          "speaker": "Yahweh",
+          "text": "Oui. À vous, Claude Vorilhon, éditeur d’une petite revue de sport automobile, marié, père de deux enfants.",
+          "i18n": {
+            "en": "Yes. To you, Claude Vorilhon, editor of a small motor-sport magazine, married, father of two children.",
+            "de": "",
+            "es": "",
+            "ru": "",
+            "ja": "",
+            "zh": ""
+          }
+        },
+        {
+          "n": 21,
+          "speaker": "Raël",
+          "text": "Comment savez-vous tout cela ?",
+          "i18n": {
+            "en": "How do you know all that?",
+            "de": "",
+            "es": "",
+            "ru": "",
+            "ja": "",
+            "zh": ""
+          }
+        },
+        {
+          "n": 22,
+          "speaker": "Yahweh",
+          "text": "Nous vous observons depuis longtemps.",
+          "i18n": {
+            "en": "We have been observing you for a long time.",
+            "de": "",
+            "es": "",
+            "ru": "",
+            "ja": "",
+            "zh": ""
+          }
+        },
+        {
+          "n": 23,
+          "speaker": "Raël",
+          "text": "Pourquoi moi?",
+          "i18n": {
+            "en": "Why me?",
+            "de": "",
+            "es": "",
+            "ru": "",
+            "ja": "",
+            "zh": ""
+          }
+        },
+        {
+          "n": 24,
+          "speaker": "Yahweh",
+          "text": "C’est justement ce que je veux vous dire. Pourquoi êtes-vous venu ici en ce froid matin d’hiver?",
+          "i18n": {
+            "en": "That is exactly what I want to tell you. Why did you come here on this cold winter morning?",
+            "de": "",
+            "es": "",
+            "ru": "",
+            "ja": "",
+            "zh": ""
+          }
+        },
+        {
+          "n": 25,
+          "speaker": "Narrator",
+          "text": "Je ne sais pas... envie de faire un peu de marche au grand air...",
+          "i18n": {
+            "en": "I don’t know… I felt like taking a little walk in the open air…",
+            "de": "",
+            "es": "",
+            "ru": "",
+            "ja": "",
+            "zh": ""
+          }
+        },
+        {
+          "n": 26,
+          "speaker": "Yahweh",
+          "text": "Vous venez souvent ici?",
+          "i18n": {
+            "en": "Do you come here often?",
+            "de": "",
+            "es": "",
+            "ru": "",
+            "ja": "",
+            "zh": ""
+          }
+        },
+        {
+          "n": 27,
+          "speaker": "Raël",
+          "text": "En été oui, mais à cette époque pratiquement jamais.",
+          "i18n": {
+            "en": "In summer, yes, but at this time of year hardly ever.",
+            "de": "",
+            "es": "",
+            "ru": "",
+            "ja": "",
+            "zh": ""
+          }
+        },
+        {
+          "n": 28,
+          "speaker": "Yahweh",
+          "text": "Alors, pourquoi aujourd’hui? Vous l’aviez prévue depuis longtemps, cette promenade?",
+          "i18n": {
+            "en": "Then why today? Had you planned this walk long in advance?",
+            "de": "",
+            "es": "",
+            "ru": "",
+            "ja": "",
+            "zh": ""
+          }
+        },
+        {
+          "n": 29,
+          "speaker": "Raël",
+          "text": "Non. Je ne sais pas. Ce matin en me réveillant j’ai subitement eu envie de venir là.",
+          "i18n": {
+            "en": "No. I don’t know. This morning when I woke up I suddenly felt like coming here.",
+            "de": "",
+            "es": "",
+            "ru": "",
+            "ja": "",
+            "zh": ""
+          }
+        },
+        {
+          "n": 30,
+          "speaker": "Yahweh",
+          "text": "Vous êtes venu parce que je voulais vous voir. Croyez-vous à la télépathie?",
+          "i18n": {
+            "en": "You came because I wanted to see you. Do you believe in telepathy?",
+            "de": "",
+            "es": "",
+            "ru": "",
+            "ja": "",
+            "zh": ""
+          }
+        },
+        {
+          "n": 31,
+          "speaker": "Raël",
+          "text": "Oui, bien sûr. C’est un sujet qui m’a toujours intéressé ainsi que tout ce qui touche à ce que les hommes appellent les «soucoupes volantes». Je n’aurais jamais pensé en voir une moi-même.",
+          "i18n": {
+            "en": "Yes, of course. It has always interested me, as has everything connected with what men call ‘flying saucers’. I never thought I would see one myself.",
+            "de": "",
+            "es": "",
+            "ru": "",
+            "ja": "",
+            "zh": ""
+          }
+        },
+        {
+          "n": 32,
+          "speaker": "Yahweh",
+          "text": "Eh bien, j’ai utilisé la télépathie pour vous faire venir ici. J’ai beaucoup de choses à vous dire. Avez-vous lu la Bible?",
+          "i18n": {
+            "en": "Well then, I used telepathy to make you come here. I have many things to tell you. Have you read the Bible?",
+            "de": "",
+            "es": "",
+            "ru": "",
+            "ja": "",
+            "zh": ""
+          }
+        },
+        {
+          "n": 33,
+          "speaker": "Raël",
+          "text": "Oui, pourquoi me demandez-vous cela?",
+          "i18n": {
+            "en": "Yes. Why do you ask me that?",
+            "de": "",
+            "es": "",
+            "ru": "",
+            "ja": "",
+            "zh": ""
+          }
+        },
+        {
+          "n": 34,
+          "speaker": "Yahweh",
+          "text": "Vous l’avez lue il y a longtemps?",
+          "i18n": {
+            "en": "Did you read it a long time ago?",
+            "de": "",
+            "es": "",
+            "ru": "",
+            "ja": "",
+            "zh": ""
+          }
+        },
+        {
+          "n": 35,
+          "speaker": "Raël",
+          "text": "Non, je l’ai achetée il y a seulement quelques jours.",
+          "i18n": {
+            "en": "No, I bought it only a few days ago.",
+            "de": "",
+            "es": "",
+            "ru": "",
+            "ja": "",
+            "zh": ""
+          }
+        },
+        {
+          "n": 36,
+          "speaker": "Yahweh",
+          "text": "Pourquoi?",
+          "i18n": {
+            "en": "Why?",
+            "de": "",
+            "es": "",
+            "ru": "",
+            "ja": "",
+            "zh": ""
+          }
+        },
+        {
+          "n": 37,
+          "speaker": "Raël",
+          "text": "Je ne sais pas, subitement j’ai eu envie de la lire...",
+          "i18n": {
+            "en": "I don’t know—suddenly I felt like reading it…",
+            "de": "",
+            "es": "",
+            "ru": "",
+            "ja": "",
+            "zh": ""
+          }
+        },
+        {
+          "n": 38,
+          "speaker": "Yahweh",
+          "text": "C’est encore par télépathie que je vous l’ai fait acheter. J’ai beaucoup de choses à vous dire et je vous ai choisi pour une mission difficile. Venez dans mon appareil, nous y serons mieux pour bavarder un peu.",
+          "i18n": {
+            "en": "Again by telepathy I made you buy it. I have many things to tell you, and I have chosen you for a difficult mission. Come into my craft; we will be more comfortable there for a little chat.",
+            "de": "",
+            "es": "",
+            "ru": "",
+            "ja": "",
+            "zh": ""
+          }
+        },
+        {
+          "n": 39,
+          "speaker": "Narrator",
+          "text": "Je le suivis et montais par le petit escalier situé sous l’engin. A voir de plus près, cela ressemblait un peu à une cloche aplatie dont le dessous serait plein et bombé. Il y avait à l’intérieur deux fauteuils face à face et la température était douce sans que la porte soit fermée. Il n’y avait pas de lampe mais une lumière naturelle qui venait de partout. Il n’y avait aucun instrument de bord rappelant une cabine de pilotage. Le plancher était fait d’un alliage étincelant et un peu bleuté. Une fois que je fus assis dans le fauteuil le plus grand mais le plus bas, fauteuil fait d’une seule matière un peu transparente, incolore et très confortable, le petit homme s’installa en face de moi, dans un siège semblable mais plus petit et plus haut afin que son visage soit au même niveau que le mien. Il toucha alors une partie du mur et tout l’appareil devint transparent, sauf sa base et son sommet. Nous étions comme en plein air mais dans une douce chaleur. Il me proposa d’enlever mon manteau, ce que je fis et il parla.",
+          "i18n": {
+            "en": "I followed him and climbed the small staircase underneath the craft. Seen closer, it looked somewhat like a flattened bell with a solid, domed underside. Inside there were two armchairs facing each other, and the temperature was mild even though the door was open. There was no lamp, but a natural light that seemed to come from everywhere. There were no instruments suggesting a cockpit. The floor was made of a sparkling, slightly bluish alloy. Once I had sat down in the larger but lower armchair, made of a single slightly transparent, colorless, and very comfortable material, the little man sat facing me in a similar seat, smaller but higher so that his face was level with mine. He then touched part of the wall, and the whole craft became transparent, except for its base and its top. We were as if in the open air, but in a gentle warmth. He suggested I take off my coat, which I did, and he spoke.",
+            "de": "",
+            "es": "",
+            "ru": "",
+            "ja": "",
+            "zh": ""
+          }
+        },
+        {
+          "n": 40,
+          "speaker": "Yahweh",
+          "text": "Vous regrettez beaucoup de n’avoir pas d’appareil photo afin de raconter notre entrevue à tous les hommes, preuve à l’appui?",
+          "i18n": {
+            "en": "You very much regret not having a camera to tell all men about our meeting, with proof to back it up, don’t you?",
+            "de": "",
+            "es": "",
+            "ru": "",
+            "ja": "",
+            "zh": ""
+          }
+        },
+        {
+          "n": 41,
+          "speaker": "Raël",
+          "text": "Bien sûr...",
+          "i18n": {
+            "en": "Of course…",
+            "de": "",
+            "es": "",
+            "ru": "",
+            "ja": "",
+            "zh": ""
+          }
+        },
+        {
+          "n": 42,
+          "speaker": "Yahweh",
+          "text": "Écoutez-moi. Vous allez leur raconter mais en leur disant la vérité sur ce qu’ils sont et sur ce que nous sommes. Suivant leurs réactions, nous verrons si nous pouvons nous montrer à eux librement et officiellement. Attendez de tout savoir avant de leur parler afin de vous défendre correctement contre ceux qui ne vous croiront pas et de pouvoir leur apporter des preuves incontestables. Vous écrirez tout ce que je vous dirai et ferez publier le livre regroupant ces écrits.",
+          "i18n": {
+            "en": "Listen to me. You will tell them—but you will tell them the truth about what they are and what we are. Depending on their reactions, we shall see whether we can show ourselves to them freely and officially. Wait until you know everything before speaking to them, so that you can defend yourself properly against those who will not believe you, and so that you can bring them indisputable evidence. You will write down everything I tell you and have the book containing these writings published.",
+            "de": "",
+            "es": "",
+            "ru": "",
+            "ja": "",
+            "zh": ""
+          }
+        },
+        {
+          "n": 43,
+          "speaker": "Raël",
+          "text": "Pourquoi m’avez-vous choisi moi?",
+          "i18n": {
+            "en": "Why did you choose me?",
+            "de": "",
+            "es": "",
+            "ru": "",
+            "ja": "",
+            "zh": ""
+          }
+        },
+        {
+          "n": 44,
+          "speaker": "Yahweh",
+          "text": "Pour beaucoup de raisons. D’abord, il nous fallait quelqu’un qui soit dans un pays où les idées nouvelles sont bien reçues et où il est possible de les exprimer. La France est le pays où la démocratie est née et son image sur la Terre entière est celle du pays de la liberté. Ensuite, il fallait quelqu’un qui soit intelligent et ouvert à tout. Enfin et surtout, il nous fallait quelqu’un qui soit libre-penseur sans être antireligieux. Étant de père juif et de mère catholique, il se trouve que vous étiez le trait d’union idéal entre deux peuples très importants dans l’histoire du monde. D’autre part, votre activité ne vous prédisposant en rien à des révélations incroyables pour la plupart rendront vos dires plus crédibles. N’étant pas un scientifique, vous ne compliquerez pas la chose et l’expliquerez simplement. N’étant pas un littéraire, vous ne ferez pas de phrases compliquées et difficiles à lire du plus grande nombre.",
+          "i18n": {
+            "en": "For many reasons. First, we needed someone in a country where new ideas are well received and it is possible to express them. France is the country where democracy was born, and its image throughout the world is that of the land of liberty. Next, we needed someone intelligent and open to everything. Finally—and above all—we needed someone who is a free-thinker without being anti-religious. With a Jewish father and a Catholic mother, you happen to be the ideal link between two peoples very important in the history of the world. Moreover, your occupation does not predispose you in any way to revelations that most would find unbelievable, which will make your words more credible. Not being a scientist, you will not complicate matters and will explain them simply. Not being a literary man, you will not write convoluted sentences that are hard for most people to read.",
+            "de": "",
+            "es": "",
+            "ru": "",
+            "ja": "",
+            "zh": ""
+          }
+        },
+        {
+          "n": 45,
+          "speaker": "Yahweh",
+          "text": "Enfin, nous avons décidé de choisir quelqu’un après la première explosion atomique qui eut lieu en 1945 et vous êtes né en 1946. Nous vous suivons depuis votre naissance et même avant. Voilà pourquoi nous vous avons choisi. Avez-vous d’autres questions à me poser?",
+          "i18n": {
+            "en": "Lastly, we decided to choose someone after the first atomic explosion, which took place in 1945, and you were born in 1946. We have been watching you since your birth—and even before. That is why we have chosen you. Do you have any other questions to ask me?",
+            "de": "",
+            "es": "",
+            "ru": "",
+            "ja": "",
+            "zh": ""
+          }
+        },
+        {
+          "n": 46,
+          "speaker": "Raël",
+          "text": "D’où venez-vous?",
+          "i18n": {
+            "en": "Where do you come from?",
+            "de": "",
+            "es": "",
+            "ru": "",
+            "ja": "",
+            "zh": ""
+          }
+        },
+        {
+          "n": 47,
+          "speaker": "Yahweh",
+          "text": "D’une lointaine planète dont je ne vous dirai rien de peur que, si les hommes de la Terre n’étaient pas sages, ils ne troublent notre tranquillité.",
+          "i18n": {
+            "en": "From a distant planet about which I will tell you nothing, for fear that, if the people of Earth were not wise, they might disturb our tranquility.",
+            "de": "",
+            "es": "",
+            "ru": "",
+            "ja": "",
+            "zh": ""
+          }
+        },
+        {
+          "n": 48,
+          "speaker": "Raël",
+          "text": "C’est très loin?",
+          "i18n": {
+            "en": "Is it very far away?",
+            "de": "",
+            "es": "",
+            "ru": "",
+            "ja": "",
+            "zh": ""
+          }
+        },
+        {
+          "n": 49,
+          "speaker": "Yahweh",
+          "text": "Très loin; lorsque je vous dirai la distance, vous comprendrez que vous ne pouvez pas y aller avec vos connaissances techniques et scientifiques actuelles.",
+          "i18n": {
+            "en": "Very far; when I tell you the distance, you will understand that you cannot go there with your current technical and scientific knowledge.",
+            "de": "",
+            "es": "",
+            "ru": "",
+            "ja": "",
+            "zh": ""
+          }
+        },
+        {
+          "n": 50,
+          "speaker": "Raël",
+          "text": "Comment vous appelez-vous?",
+          "i18n": {
+            "en": "What is your name?",
+            "de": "",
+            "es": "",
+            "ru": "",
+            "ja": "",
+            "zh": ""
+          }
+        },
+        {
+          "n": 51,
+          "speaker": "Yahweh",
+          "text": "Nous sommes des hommes comme vous et nous vivons sur une planète assez semblable à la Terre.",
+          "i18n": {
+            "en": "We are men like you, and we live on a planet quite similar to Earth.",
+            "de": "",
+            "es": "",
+            "ru": "",
+            "ja": "",
+            "zh": ""
+          }
+        },
+        {
+          "n": 52,
+          "speaker": "Raël",
+          "text": "Combien de temps mettez-vous pour venir sur la Terre?",
+          "i18n": {
+            "en": "How long does it take you to come to Earth?",
+            "de": "",
+            "es": "",
+            "ru": "",
+            "ja": "",
+            "zh": ""
+          }
+        },
+        {
+          "n": 53,
+          "speaker": "Yahweh",
+          "text": "Le temps d’y penser.",
+          "i18n": {
+            "en": "As long as it takes to think of it.",
+            "de": "",
+            "es": "",
+            "ru": "",
+            "ja": "",
+            "zh": ""
+          }
+        },
+        {
+          "n": 54,
+          "speaker": "Raël",
+          "text": "Pourquoi venez-vous sur la Terre?",
+          "i18n": {
+            "en": "Why do you come to Earth?",
+            "de": "",
+            "es": "",
+            "ru": "",
+            "ja": "",
+            "zh": ""
+          }
+        },
+        {
+          "n": 55,
+          "speaker": "Yahweh",
+          "text": "Pour voir où en sont les hommes et veiller sur eux. Ils sont l’avenir, nous sommes le passé.",
+          "i18n": {
+            "en": "To see how men are getting on and to watch over them. They are the future; we are the past.",
+            "de": "",
+            "es": "",
+            "ru": "",
+            "ja": "",
+            "zh": ""
+          }
+        },
+        {
+          "n": 56,
+          "speaker": "Raël",
+          "text": "Êtes-vous nombreux?",
+          "i18n": {
+            "en": "Are there many of you?",
+            "de": "",
+            "es": "",
+            "ru": "",
+            "ja": "",
+            "zh": ""
+          }
+        },
+        {
+          "n": 57,
+          "speaker": "Yahweh",
+          "text": "Plus nombreux que vous.",
+          "i18n": {
+            "en": "More than you.",
+            "de": "",
+            "es": "",
+            "ru": "",
+            "ja": "",
+            "zh": ""
+          }
+        },
+        {
+          "n": 58,
+          "speaker": "Raël",
+          "text": "J’aimerais aller sur votre planète, le pourrais-je?",
+          "i18n": {
+            "en": "I would like to go to your planet—could I?",
+            "de": "",
+            "es": "",
+            "ru": "",
+            "ja": "",
+            "zh": ""
+          }
+        },
+        {
+          "n": 59,
+          "speaker": "Yahweh",
+          "text": "Non. D’abord vous ne pourriez pas y vivre. L’atmosphère est très différente de la vôtre et vous n’êtes pas assez entraîné pour supporter le voyage.",
+          "i18n": {
+            "en": "No. First, you could not live there. The atmosphere is very different from yours, and you are not sufficiently trained to withstand the journey.",
+            "de": "",
+            "es": "",
+            "ru": "",
+            "ja": "",
+            "zh": ""
+          }
+        },
+        {
+          "n": 60,
+          "speaker": "Raël",
+          "text": "Pourquoi nous rencontrer ici?",
+          "i18n": {
+            "en": "Why meet here?",
+            "de": "",
+            "es": "",
+            "ru": "",
+            "ja": "",
+            "zh": ""
+          }
+        },
+        {
+          "n": 61,
+          "speaker": "Yahweh",
+          "text": "Parce que le cratère d’un volcan est un lieu idéal pour être à l’abri des regards importuns. Maintenant je vais repartir. Revenez demain avec la Bible, à la même heure, et amenez de quoi prendre des notes. N’apportez avec vous rien de métallique et ne parlez à personne de nos entretiens sinon nous ne nous reverrons pas.",
+          "i18n": {
+            "en": "Because a volcano’s crater is an ideal place to be safe from prying eyes. Now I am going to leave. Come back tomorrow with the Bible, at the same time, and bring something to take notes with. Bring nothing metallic with you, and speak to no one about our meetings, otherwise we shall not see each other again.",
+            "de": "",
+            "es": "",
+            "ru": "",
+            "ja": "",
+            "zh": ""
+          }
+        },
+        {
+          "n": 62,
+          "speaker": "Narrator",
+          "text": "Il me laissa redescendre par le petit escalier, me rendit mon manteau et me salua de la main. L’escalier se replia, la trappe se referma sans le moindre bruit et, toujours sans un murmure ni le plus infime sifflement, l’appareil s’éleva doucement jusqu’à environ 400 mètres puis disparut dans la brume.",
+          "i18n": {
+            "en": "He let me go back down the little stairway, handed me my coat, and waved goodbye. The stairway folded up, the hatch closed without the slightest sound, and, still without a murmur or even the faintest whistle, the craft rose gently to about four hundred meters, then disappeared into the mist.",
+            "de": "",
+            "es": "",
+            "ru": "",
+            "ja": "",
+            "zh": ""
+          }
+        }
+      ]
+    }
+  ]
+}
