@@ -1,5 +1,6 @@
 {
   "slug": "the-book-which-tells-the-truth",
+  "publicationYear": 1973,
   "primaryLang": "fr",
   "titles": {
     "fr": "Le Livre Qui Dit la Vérité",
@@ -17,6 +18,14 @@
     {
       "n": 1,
       "title": "La Rencontre",
+      "i18n": {
+        "en": "",
+        "de": "",
+        "es": "",
+        "ru": "",
+        "ja": "",
+        "zh": ""
+      },
       "paragraphs": [
         {
           "n": 1,
@@ -476,7 +485,150 @@
         {
           "n": 36,
           "speaker": "Yahweh",
-          "text": "Pourquoi ?",
+          "text": "Pourquoi?",
+          "i18n": {
+            "en": "",
+            "de": "",
+            "es": "",
+            "ru": "",
+            "ja": "",
+            "zh": ""
+          }
+        },
+        {
+          "n": 37,
+          "speaker": "Raël",
+          "text": "Je ne sais pas, subitement j’ai eu envie de la lire...",
+          "i18n": {
+            "en": "",
+            "de": "",
+            "es": "",
+            "ru": "",
+            "ja": "",
+            "zh": ""
+          }
+        },
+        {
+          "n": 38,
+          "speaker": "Yahweh",
+          "text": "C’est encore par télépathie que je vous l’ai fait acheter. J’ai beaucoup de choses à vous dire et je vous ai choisi pour une mission difficile. Venez dans mon appareil, nous y serons mieux pour bavarder un peu.",
+          "i18n": {
+            "en": "",
+            "de": "",
+            "es": "",
+            "ru": "",
+            "ja": "",
+            "zh": ""
+          }
+        },
+        {
+          "n": 39,
+          "speaker": "Narrator",
+          "text": "Je le suivis et montais par le petit escalier situé sous l’engin. A voir de plus près, cela ressemblait un peu à une cloche aplatie dont le dessous serait plein et bombé. Il y avait à l’intérieur deux fauteuils face à face et la température était douce sans que la porte soit fermée. Il n’y avait pas de lampe mais une lumière naturelle qui venait de partout. Il n’y avait aucun instrument de bord rappelant une cabine de pilotage. Le plancher était fait d’un alliage étincelant et un peu bleuté. Une fois que je fus assis dans le fauteuil le plus grand mais le plus bas, fauteuil fait d’une seule matière un peu transparente, incolore et très confortable, le petit homme s’installa en face de moi, dans un siège semblable mais plus petit et plus haut afin que son visage soit au même niveau que le mien. Il toucha alors une partie du mur et tout l’appareil devint transparent, sauf sa base et son sommet. Nous étions comme en plein air mais dans une douce chaleur. Il me proposa d’enlever mon manteau, ce que je fis et il parla.",
+          "i18n": {
+            "en": "",
+            "de": "",
+            "es": "",
+            "ru": "",
+            "ja": "",
+            "zh": ""
+          }
+        },
+        {
+          "n": 40,
+          "speaker": "Yahweh",
+          "text": "Vous regrettez beaucoup de n’avoir pas d’appareil photo afin de raconter notre entrevue à tous les hommes, preuve à l’appui?",
+          "i18n": {
+            "en": "",
+            "de": "",
+            "es": "",
+            "ru": "",
+            "ja": "",
+            "zh": ""
+          }
+        },
+        {
+          "n": 41,
+          "speaker": "Raël",
+          "text": "Bien sûr...",
+          "i18n": {
+            "en": "",
+            "de": "",
+            "es": "",
+            "ru": "",
+            "ja": "",
+            "zh": ""
+          }
+        },
+        {
+          "n": 42,
+          "speaker": "Yahweh",
+          "text": "Écoutez-moi. Vous allez leur raconter mais en leur disant la vérité sur ce qu’ils sont et sur ce que nous sommes. Suivant leurs réactions, nous verrons si nous pouvons nous montrer à eux librement et officiellement. Attendez de tout savoir avant de leur parler afin de vous défendre correctement contre ceux qui ne vous croiront pas et de pouvoir leur apporter des preuves incontestables. Vous écrirez tout ce que je vous dirai et ferez publier le livre regroupant ces écrits.",
+          "i18n": {
+            "en": "",
+            "de": "",
+            "es": "",
+            "ru": "",
+            "ja": "",
+            "zh": ""
+          }
+        },
+        {
+          "n": 43,
+          "speaker": "Raël",
+          "text": "Pourquoi m’avez-vous choisi moi?",
+          "i18n": {
+            "en": "",
+            "de": "",
+            "es": "",
+            "ru": "",
+            "ja": "",
+            "zh": ""
+          }
+        },
+        {
+          "n": 44,
+          "speaker": "Yahweh",
+          "text": "Pour beaucoup de raisons. D’abord, il nous fallait quelqu’un qui soit dans un pays où les idées nouvelles sont bien reçues et où il est possible de les exprimer. La France est le pays où la démocratie est née et son image sur la Terre entière est celle du pays de la liberté. Ensuite, il fallait quelqu’un qui soit intelligent et ouvert à tout. Enfin et surtout, il nous fallait quelqu’un qui soit libre-penseur sans être antireligieux. Étant de père juif et de mère catholique, il se trouve que vous étiez le trait d’union idéal entre deux peuples très importants dans l’histoire du monde. D’autre part, votre activité ne vous prédisposant en rien à des révélations incroyables pour la plupart rendront vos dires plus crédibles. N’étant pas un scientifique, vous ne compliquerez pas la chose et l’expliquerez simplement. N’étant pas un littéraire, vous ne ferez pas de phrases compliquées et difficiles à lire du plus grande nombre.",
+          "i18n": {
+            "en": "",
+            "de": "",
+            "es": "",
+            "ru": "",
+            "ja": "",
+            "zh": ""
+          }
+        },
+        {
+          "n": 45,
+          "speaker": "Yahweh",
+          "text": "Enfin, nous avons décidé de choisir quelqu’un après la première explosion atomique qui eut lieu en 1945 et vous êtes né en 1946. Nous vous suivons depuis votre naissance et même avant. Voilà pourquoi nous vous avons choisi. Avez-vous d’autres questions à me poser?",
+          "i18n": {
+            "en": "",
+            "de": "",
+            "es": "",
+            "ru": "",
+            "ja": "",
+            "zh": ""
+          }
+        },
+        {
+          "n": 46,
+          "speaker": "Raël",
+          "text": "D’où venez-vous?",
+          "i18n": {
+            "en": "",
+            "de": "",
+            "es": "",
+            "ru": "",
+            "ja": "",
+            "zh": ""
+          }
+        },
+        {
+          "n": 47,
+          "speaker": "Yahweh",
+          "text": "D’une lointaine planète dont je ne vous dirai rien de peur que, si les hommes de la Terre n’étaient pas sages, ils ne troublent notre tranquillité.",
           "i18n": {
             "en": "",
             "de": "",
@@ -488,8 +640,8 @@
         },
         {
           "n": 48,
-          "speaker": null,
-          "text": "– Je ne sais pas, subitement j’ai eu envie de la lire...",
+          "speaker": "Raël",
+          "text": "C’est très loin?",
           "i18n": {
             "en": "",
             "de": "",
@@ -501,148 +653,185 @@
         },
         {
           "n": 49,
-          "speaker": null,
-          "text": "– C’est encore par télépathie que je vous l’ai fait acheter. J’ai beaucoup de choses à vous dire et je vous ai choisi pour une mission difficile. Venez dans mon appareil, nous y serons mieux pour bavarder un peu»."
+          "speaker": "Yahweh",
+          "text": "Très loin; lorsque je vous dirai la distance, vous comprendrez que vous ne pouvez pas y aller avec vos connaissances techniques et scientifiques actuelles.",
+          "i18n": {
+            "en": "",
+            "de": "",
+            "es": "",
+            "ru": "",
+            "ja": "",
+            "zh": ""
+          }
         },
         {
           "n": 50,
-          "speaker": null,
-          "text": "Je le suivis et montais par le petit escalier situé sous l’engin. A voir de plus près, cela ressemblait un peu à une cloche aplatie dont le dessous serait plein et bombé. Il y avait à l’intérieur deux fauteuils face à face et la température était douce sans que la porte soit fermée. Il n’y avait pas de lampe mais une lumière naturelle qui venait de partout. Il n’y avait aucun instrument de bord rappelant une cabine de pilotage. Le plancher était fait d’un alliage étincelant et un peu bleuté. Une fois que je fus assis dans le fauteuil le plus grand mais le plus bas, fauteuil fait d’une seule matière un peu transparente, incolore et très confortable, le petit homme s’installa en face de moi, dans un siège semblable mais plus petit et plus haut afin que son visage soit au même niveau que le mien. Il toucha alors une partie du mur et tout l’appareil devint transparent, sauf sa base et son sommet. Nous étions comme en plein air mais dans une douce chaleur. Il me proposa d’enlever mon manteau, ce que je fis et il parla."
+          "speaker": "Raël",
+          "text": "Comment vous appelez-vous?",
+          "i18n": {
+            "en": "",
+            "de": "",
+            "es": "",
+            "ru": "",
+            "ja": "",
+            "zh": ""
+          }
         },
         {
           "n": 51,
-          "speaker": null,
-          "text": "«Vous regrettez beaucoup de n’avoir pas d’appareil photo afin de raconter notre entrevue à tous les hommes, preuve à l’appui ?"
+          "speaker": "Yahweh",
+          "text": "Nous sommes des hommes comme vous et nous vivons sur une planète assez semblable à la Terre.",
+          "i18n": {
+            "en": "",
+            "de": "",
+            "es": "",
+            "ru": "",
+            "ja": "",
+            "zh": ""
+          }
         },
         {
           "n": 52,
-          "speaker": null,
-          "text": "– Bien sûr..."
+          "speaker": "Raël",
+          "text": "Combien de temps mettez-vous pour venir sur la Terre?",
+          "i18n": {
+            "en": "",
+            "de": "",
+            "es": "",
+            "ru": "",
+            "ja": "",
+            "zh": ""
+          }
         },
         {
           "n": 53,
-          "speaker": null,
-          "text": "– Écoutez-moi. Vous allez leur raconter mais en leur disant la vérité sur ce qu’ils sont et sur ce que nous sommes. Suivant leurs réactions, nous verrons si nous pouvons nous montrer à eux librement et officiellement. Attendez de tout savoir avant de leur parler afin de vous défendre correctement contre ceux qui ne vous croiront pas et de pouvoir leur apporter des preuves incontestables. Vous écrirez tout ce que je vous dirai et ferez publier le livre regroupant ces écrits."
+          "speaker": "Yahweh",
+          "text": "Le temps d’y penser.",
+          "i18n": {
+            "en": "",
+            "de": "",
+            "es": "",
+            "ru": "",
+            "ja": "",
+            "zh": ""
+          }
         },
         {
           "n": 54,
-          "speaker": null,
-          "text": "– Pourquoi m’avez-vous choisi moi ?"
+          "speaker": "Raël",
+          "text": "Pourquoi venez-vous sur la Terre?",
+          "i18n": {
+            "en": "",
+            "de": "",
+            "es": "",
+            "ru": "",
+            "ja": "",
+            "zh": ""
+          }
         },
         {
           "n": 55,
-          "speaker": null,
-          "text": "– Pour beaucoup de raisons. D’abord, il nous fallait quelqu’un qui soit dans un pays où les idées nouvelles sont bien reçues et où il est possible de les exprimer. La France est le pays où la démocratie est née et son image sur la Terre entière est celle du pays de la liberté. Ensuite, il fallait quelqu’un qui soit intelligent et ouvert à tout. Enfin et surtout, il nous fallait quelqu’un qui soit libre-penseur sans être antireligieux. Étant de père juif et de mère catholique, il se trouve que vous étiez le trait d’union idéal entre deux peuples très importants dans l’histoire du monde. D’autre part, votre activité ne vous prédisposant en rien à des révélations incroyables pour la plupart rendront vos dires plus crédibles. N’étant pas un scientifique, vous ne compliquerez pas la chose et l’expliquerez simplement. N’étant pas un littéraire, vous ne ferez pas de phrases compliquées et difficiles à lire du plus grande nombre."
+          "speaker": "Yahweh",
+          "text": "Pour voir où en sont les hommes et veiller sur eux. Ils sont l’avenir, nous sommes le passé.",
+          "i18n": {
+            "en": "",
+            "de": "",
+            "es": "",
+            "ru": "",
+            "ja": "",
+            "zh": ""
+          }
         },
         {
           "n": 56,
-          "speaker": null,
-          "text": "Enfin, nous avons décidé de choisir quelqu’un après la première explosion atomique qui eut lieu en 1945 et vous êtes né en 1946. Nous vous suivons depuis votre naissance et même avant. Voilà pourquoi nous vous avons choisi. Avezvous d’autres questions à me poser ?"
+          "speaker": "Raël",
+          "text": "Êtes-vous nombreux?",
+          "i18n": {
+            "en": "",
+            "de": "",
+            "es": "",
+            "ru": "",
+            "ja": "",
+            "zh": ""
+          }
         },
         {
           "n": 57,
-          "speaker": null,
-          "text": "– D’où venez-vous ?"
+          "speaker": "Yahweh",
+          "text": "Plus nombreux que vous.",
+          "i18n": {
+            "en": "",
+            "de": "",
+            "es": "",
+            "ru": "",
+            "ja": "",
+            "zh": ""
+          }
         },
         {
           "n": 58,
-          "speaker": null,
-          "text": "– D’une lointaine planète dont je ne vous dirai rien de peur que, si les hommes de la Terre n’étaient pas sages, ils ne troublent notre tranquillité."
+          "speaker": "Raël",
+          "text": "J’aimerais aller sur votre planète, le pourrais-je?",
+          "i18n": {
+            "en": "",
+            "de": "",
+            "es": "",
+            "ru": "",
+            "ja": "",
+            "zh": ""
+          }
         },
         {
           "n": 59,
-          "speaker": null,
-          "text": "– C’est très loin ?"
+          "speaker": "Yahweh",
+          "text": "Non. D’abord vous ne pourriez pas y vivre. L’atmosphère est très différente de la vôtre et vous n’êtes pas assez entraîné pour supporter le voyage.",
+          "i18n": {
+            "en": "",
+            "de": "",
+            "es": "",
+            "ru": "",
+            "ja": "",
+            "zh": ""
+          }
         },
         {
           "n": 60,
-          "speaker": null,
-          "text": "– Très loin ; lorsque je vous dirai la distance, vous comprendrez que vous ne pouvez pas y aller avec vos connaissances techniques et scientifiques actuelles."
+          "speaker": "Raël",
+          "text": "Pourquoi nous rencontrer ici?",
+          "i18n": {
+            "en": "",
+            "de": "",
+            "es": "",
+            "ru": "",
+            "ja": "",
+            "zh": ""
+          }
         },
         {
           "n": 61,
-          "speaker": null,
-          "text": "– Comment vous appelez-vous ?"
+          "speaker": "Yahweh",
+          "text": "Parce que le cratère d’un volcan est un lieu idéal pour être à l’abri des regards importuns. Maintenant je vais repartir. Revenez demain avec la Bible, à la même heure, et amenez de quoi prendre des notes. N’apportez avec vous rien de métallique et ne parlez à personne de nos entretiens sinon nous ne nous reverrons pas.",
+          "i18n": {
+            "en": "",
+            "de": "",
+            "es": "",
+            "ru": "",
+            "ja": "",
+            "zh": ""
+          }
         },
         {
           "n": 62,
-          "speaker": null,
-          "text": "– Nous sommes des hommes comme vous et nous vivons"
-        },
-        {
-          "n": 63,
-          "speaker": null,
-          "text": "sur une planète assez semblable à la Terre."
-        },
-        {
-          "n": 64,
-          "speaker": null,
-          "text": "– Combien de temps mettez-vous pour venir sur la Terre ?"
-        },
-        {
-          "n": 65,
-          "speaker": null,
-          "text": "– Le temps d’y penser."
-        },
-        {
-          "n": 66,
-          "speaker": null,
-          "text": "– Pourquoi venez-vous sur la Terre ?"
-        },
-        {
-          "n": 67,
-          "speaker": null,
-          "text": "– Pour voir où en sont les hommes et veiller sur eux. Ils"
-        },
-        {
-          "n": 68,
-          "speaker": null,
-          "text": "sont l’avenir, nous sommes le passé."
-        },
-        {
-          "n": 69,
-          "speaker": null,
-          "text": "– Êtes-vous nombreux ?"
-        },
-        {
-          "n": 70,
-          "speaker": null,
-          "text": "– Plus nombreux que vous."
-        },
-        {
-          "n": 71,
-          "speaker": null,
-          "text": "– J’aimerais aller sur votre planète, le pourrais-je ?"
-        },
-        {
-          "n": 72,
-          "speaker": null,
-          "text": "– Non. D’abord vous ne pourriez pas y vivre. L’atmosphère est très différente de la vôtre et vous n’êtes pas assez entraîné pour supporter le voyage."
-        },
-        {
-          "n": 73,
-          "speaker": null,
-          "text": "– Pourquoi nous rencontrer ici ?"
-        },
-        {
-          "n": 74,
-          "speaker": null,
-          "text": "– Parce que le cratère d’un volcan est un lieu idéal pour être à l’abri des regards importuns. Maintenant je vais repartir. Revenez demain avec la Bible, à la même heure, et amenez de"
-        },
-        {
-          "n": 75,
-          "speaker": null,
-          "text": "quoi prendre des notes. N’apportez avec vous rien de métallique et ne parlez à personne de nos entretiens sinon nous ne nous reverrons pas»."
-        },
-        {
-          "n": 76,
-          "speaker": null,
-          "text": "Il me laissa redescendre par le petit escalier, me rendit mon manteau et me salua de la main. L’escalier se replia, la trappe se referma sans le moindre bruit et, toujours sans un murmure ni le plus infime sifflement, l’appareil s’éleva doucement jusqu’à environ 400 mètres puis disparut dans la brume."
-        },
-        {
-          "n": 77,
-          "speaker": null,
-          "text": "Le volcan du Puy de Lassolas près de Clermont-Ferrand, l’endroit où Raël a fait sa première rencontre le 13 décembre 1973."
+          "speaker": "Narrator",
+          "text": "Il me laissa redescendre par le petit escalier, me rendit mon manteau et me salua de la main. L’escalier se replia, la trappe se referma sans le moindre bruit et, toujours sans un murmure ni le plus infime sifflement, l’appareil s’éleva doucement jusqu’à environ 400 mètres puis disparut dans la brume.",
+          "i18n": {
+            "en": "",
+            "de": "",
+            "es": "",
+            "ru": "",
+            "ja": "",
+            "zh": ""
+          }
         }
       ]
     },
