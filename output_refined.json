@@ -2273,20 +2273,7 @@
         {
           "n": 110,
           "speaker": "Intradiegetic Narrator",
-          "text": "Voilà. Ce que je viens de dire, assimilez-le et écrivez-le. Je",
-          "i18n": {
-            "en": "",
-            "de": "",
-            "es": "",
-            "ru": "",
-            "ja": "",
-            "zh": ""
-          }
-        },
-        {
-          "n": 111,
-          "speaker": "Intradiegetic Narrator",
-          "text": "vous en dirai plus demain».",
+          "text": "Voilà. Ce que je viens de dire, assimilez-le et écrivez-le. Je vous en dirai plus demain».",
           "i18n": {
             "en": "",
             "de": "",
@@ -2298,21 +2285,8 @@
         },
         {
           "n": 112,
-          "speaker": "Intradiegetic Narrator",
+          "speaker": "Primary Narrator",
           "text": "Le petit homme prit à nouveau congé de moi et l’appareil s’éleva doucement. Mais comme le ciel était plus clair, je pus assister à son envol d’une façon complète. Il s’immobilisa à 400 mètres environ et, toujours sans un bruit, devint rouge comme chauffé, puis blanc comme un métal chauffé à blanc, puis bleu violet comme une énorme étincelle impossible à regarder et disparut complètement.",
-          "i18n": {
-            "en": "",
-            "de": "",
-            "es": "",
-            "ru": "",
-            "ja": "",
-            "zh": ""
-          }
-        },
-        {
-          "n": 113,
-          "speaker": "Intradiegetic Narrator",
-          "text": "Raël, photographié au milieu des années 1970, sur le site de la première rencontre au Puy de Lassolas, avec les vêtements qu'il portait le 13 décembre de 1973.",
           "i18n": {
             "en": "",
             "de": "",
@@ -2327,11 +2301,19 @@
     {
       "n": 3,
       "title": "La Surveillance Des Élus",
+      "i18n": {
+        "en": "",
+        "de": "",
+        "es": "",
+        "ru": "",
+        "ja": "",
+        "zh": ""
+      },
       "paragraphs": [
         {
           "n": 1,
-          "speaker": "Intradiegetic Narrator",
-          "text": "MoÏSE",
+          "speaker": "Primary Narrator",
+          "text": "Le lendemain je retrouvais mon interlocuteur, et il continua son récit:",
           "i18n": {
             "en": "",
             "de": "",
@@ -2344,7 +2326,7 @@
         {
           "n": 2,
           "speaker": "Intradiegetic Narrator",
-          "text": "LES TRoMPETTES DE JÉRICHo",
+          "text": "Dans la Genèse, XXVIII, se trouve une autre description de notre présence.",
           "i18n": {
             "en": "",
             "de": "",
@@ -2357,7 +2339,7 @@
         {
           "n": 3,
           "speaker": "Intradiegetic Narrator",
-          "text": "SAMSoN LE TÉLÉPATHE",
+          "text": "Une échelle était dressée par terre, sa tête touchant aux cieux, et voici que des Anges d’Elohim montaient et descendaient sur elle.",
           "i18n": {
             "en": "",
             "de": "",
@@ -2365,97 +2347,13 @@
             "ru": "",
             "ja": "",
             "zh": ""
-          }
-        },
-        {
-          "n": 4,
-          "speaker": "Intradiegetic Narrator",
-          "text": "LA PREMIÈRE RÉSIDENCE PoUR L’ACCUEIL DES ELoHIM",
-          "i18n": {
-            "en": "",
-            "de": "",
-            "es": "",
-            "ru": "",
-            "ja": "",
-            "zh": ""
-          }
-        },
-        {
-          "n": 5,
-          "speaker": "Intradiegetic Narrator",
-          "text": "LA MULTIPLICATIoN DES PAINS",
-          "i18n": {
-            "en": "",
-            "de": "",
-            "es": "",
-            "ru": "",
-            "ja": "",
-            "zh": ""
-          }
-        },
-        {
-          "n": 6,
-          "speaker": "Intradiegetic Narrator",
-          "text": "LES SoUCoUPES VoLANTES D’ÉZÉCHIEL",
-          "i18n": {
-            "en": "",
-            "de": "",
-            "es": "",
-            "ru": "",
-            "ja": "",
-            "zh": ""
-          }
-        },
-        {
-          "n": 7,
-          "speaker": "Intradiegetic Narrator",
-          "text": "LES HoMMES NE PoUVAIENT PAS CoMPRENDRE",
-          "i18n": {
-            "en": "",
-            "de": "",
-            "es": "",
-            "ru": "",
-            "ja": "",
-            "zh": ""
-          }
-        },
-        {
-          "n": 8,
-          "speaker": "Intradiegetic Narrator",
-          "text": "moïse",
-          "i18n": {
-            "en": "",
-            "de": "",
-            "es": "",
-            "ru": "",
-            "ja": "",
-            "zh": ""
-          }
-        },
-        {
-          "n": 9,
-          "speaker": "Intradiegetic Narrator",
-          "text": "Le lendemain je retrouvais mon interlocuteur, et il continua son récit : Dans la Genèse, XXVIII, se trouve une autre description de notre présence.",
-          "i18n": {
-            "en": "",
-            "de": "",
-            "es": "",
-            "ru": "",
-            "ja": "",
-            "zh": ""
-          }
-        },
-        {
-          "n": 10,
-          "speaker": "Intradiegetic Narrator",
-          "text": "«Une échelle était dressée par terre, sa tête touchant aux cieux, et voici que des Anges d’Elohim montaient et descendaient sur elle». (Genèse, XXVIII-12)",
-          "i18n": {
-            "en": "",
-            "de": "",
-            "es": "",
-            "ru": "",
-            "ja": "",
-            "zh": ""
+          },
+          "quote": {
+            "type": "scripture",
+            "book": "Genesis",
+            "chapter": 28,
+            "verses": [12],
+            "translation": "DHORME1956"
           }
         },
         {
@@ -2474,7 +2372,7 @@
         {
           "n": 12,
           "speaker": "Intradiegetic Narrator",
-          "text": "«Enlevez les dieux étrangers qui sont au milieu de vous",
+          "text": "«Enlevez les dieux étrangers qui sont au milieu de vous (...)",
           "i18n": {
             "en": "",
             "de": "",
@@ -2482,19 +2380,13 @@
             "ru": "",
             "ja": "",
             "zh": ""
-          }
-        },
-        {
-          "n": 13,
-          "speaker": "Intradiegetic Narrator",
-          "text": "(...)». (Genèse, XXXV-2)",
-          "i18n": {
-            "en": "",
-            "de": "",
-            "es": "",
-            "ru": "",
-            "ja": "",
-            "zh": ""
+          },
+          "quote": {
+            "type": "scripture",
+            "book": "Genesis",
+            "chapter": 35,
+            "verses": [2],
+            "translation": "DHORME1956"
           }
         },
         {
@@ -2513,7 +2405,7 @@
         {
           "n": 15,
           "speaker": "Intradiegetic Narrator",
-          "text": "«L’Ange de Iahvé lui apparut dans une flamme de feu, du milieu d’un buisson (...) le buisson était embrasé par le feu, mais il n’était pas dévoré !» (Exode, III-2)",
+          "text": "L’Ange de Iahvé lui apparut dans une flamme de feu, du milieu d’un buisson (...) le buisson était embrasé par le feu, mais il n’était pas dévoré !",
           "i18n": {
             "en": "",
             "de": "",
@@ -2521,25 +2413,19 @@
             "ru": "",
             "ja": "",
             "zh": ""
+          },
+          "quote": {
+            "type": "scripture",
+            "book": "Exodus",
+            "chapter": 3,
+            "verses": [2],
+            "translation": "DHORME1956"
           }
         },
         {
           "n": 16,
           "speaker": "Intradiegetic Narrator",
-          "text": "Une fusée se posa devant lui et la description qu’il fait correspond à celle que ferait aujourd’hui un primitif du Brésil si nous nous y posions, dans cet engin dont la lumière blanche éclaire dans les arbres sans les faire brûler pour autant... Le peuple élu comme le peuple le plus intelligent avait été décapité de ses esprits les plus brillants et était devenu l’esclave des peuples primitifs avoisinants qui étaient beaucoup plus",
-          "i18n": {
-            "en": "",
-            "de": "",
-            "es": "",
-            "ru": "",
-            "ja": "",
-            "zh": ""
-          }
-        },
-        {
-          "n": 17,
-          "speaker": "Intradiegetic Narrator",
-          "text": "nombreux car ils n’avaient pas subi de grandes destructions. Il fallait donc redonner sa dignité à ce peuple en lui redonnant son pays.",
+          "text": "Une fusée se posa devant lui et la description qu’il fait correspond à celle que ferait aujourd’hui un primitif du Brésil si nous nous y posions, dans cet engin dont la lumière blanche éclaire dans les arbres sans les faire brûler pour autant... Le peuple élu comme le peuple le plus intelligent avait été décapité de ses esprits les plus brillants et était devenu l’esclave des peuples primitifs avoisinants qui étaient beaucoup plus nombreux car ils n’avaient pas subi de grandes destructions. Il fallait donc redonner sa dignité à ce peuple en lui redonnant son pays.",
           "i18n": {
             "en": "",
             "de": "",
@@ -2565,7 +2451,7 @@
         {
           "n": 19,
           "speaker": "Intradiegetic Narrator",
-          "text": "«or Iahvé marchait au-devant d’eux, le jour en colonne de nuée pour les guider sur la route, et la nuit en colonne de feu pour les éclairer en sorte qu’ils marchent jour et nuit». (Exode, XIII-21)",
+          "text": "Or Iahvé marchait au-devant d’eux, le jour en colonne de nuée pour les guider sur la route, et la nuit en colonne de feu pour les éclairer en sorte qu’ils marchent jour et nuit.",
           "i18n": {
             "en": "",
             "de": "",
@@ -2573,25 +2459,19 @@
             "ru": "",
             "ja": "",
             "zh": ""
+          },
+          "quote": {
+            "type": "scripture",
+            "book": "Exodus",
+            "chapter": 13,
+            "verses": [21],
+            "translation": "DHORME1956"
           }
         },
         {
           "n": 20,
           "speaker": "Intradiegetic Narrator",
-          "text": "Pour ralentir la marche des Egyptiens lancés à leur pour-",
-          "i18n": {
-            "en": "",
-            "de": "",
-            "es": "",
-            "ru": "",
-            "ja": "",
-            "zh": ""
-          }
-        },
-        {
-          "n": 21,
-          "speaker": "Intradiegetic Narrator",
-          "text": "suite :",
+          "text": "Pour ralentir la marche des Egyptiens lancés à leur poursuite:",
           "i18n": {
             "en": "",
             "de": "",
@@ -2604,7 +2484,7 @@
         {
           "n": 22,
           "speaker": "Intradiegetic Narrator",
-          "text": "«La colonne de nuée se déplaça de devant eux et se tint derrière eux (...) la nuée était (pour les uns) ténèbres, et (pour les autres) elle éclairait la nuit». (Exode, XIV-19)",
+          "text": "La colonne de nuée se déplaça de devant eux et se tint derrière eux (...) la nuée était (pour les uns) ténèbres, et (pour les autres) elle éclairait la nuit.",
           "i18n": {
             "en": "",
             "de": "",
@@ -2612,25 +2492,19 @@
             "ru": "",
             "ja": "",
             "zh": ""
+          },
+          "quote": {
+            "type": "scripture",
+            "book": "Exodus",
+            "chapter": 14,
+            "verses": [19],
+            "translation": "DHORME1956"
           }
         },
         {
           "n": 23,
           "speaker": "Intradiegetic Narrator",
-          "text": "La fumée émise derrière le peuple d’Israël faisait un",
-          "i18n": {
-            "en": "",
-            "de": "",
-            "es": "",
-            "ru": "",
-            "ja": "",
-            "zh": ""
-          }
-        },
-        {
-          "n": 24,
-          "speaker": "Intradiegetic Narrator",
-          "text": "rideau qui ralentissait les poursuivants.",
+          "text": "La fumée émise derrière le peuple d’Israël faisait un rideau qui ralentissait les poursuivants.",
           "i18n": {
             "en": "",
             "de": "",
@@ -2643,20 +2517,7 @@
         {
           "n": 25,
           "speaker": "Intradiegetic Narrator",
-          "text": "Ensuite la traversée de l’eau est obtenue grâce à un rayon",
-          "i18n": {
-            "en": "",
-            "de": "",
-            "es": "",
-            "ru": "",
-            "ja": "",
-            "zh": ""
-          }
-        },
-        {
-          "n": 26,
-          "speaker": "Intradiegetic Narrator",
-          "text": "répulseur qui permet de dégager un passage.",
+          "text": "Ensuite la traversée de l’eau est obtenue grâce à un rayon répulseur qui permet de dégager un passage.",
           "i18n": {
             "en": "",
             "de": "",
@@ -2669,7 +2530,7 @@
         {
           "n": 27,
           "speaker": "Intradiegetic Narrator",
-          "text": "«(...) il mit ainsi la mer à sec et les eaux se fendirent».",
+          "text": "(...) il mit ainsi la mer à sec et les eaux se fendirent.",
           "i18n": {
             "en": "",
             "de": "",
@@ -2677,25 +2538,19 @@
             "ru": "",
             "ja": "",
             "zh": ""
-          }
-        },
-        {
-          "n": 28,
-          "speaker": "Intradiegetic Narrator",
-          "text": "(Exode, XIV-21)».",
-          "i18n": {
-            "en": "",
-            "de": "",
-            "es": "",
-            "ru": "",
-            "ja": "",
-            "zh": ""
+          },
+          "quote": {
+            "type": "scripture",
+            "book": "Exodus",
+            "chapter": 14,
+            "verses": [21],
+            "translation": "DHORME1956"
           }
         },
         {
           "n": 29,
           "speaker": "Intradiegetic Narrator",
-          "text": "«En ce jour Iahvé sauva Israël (...)» (Exode, XIV-30)",
+          "text": "En ce jour Iahvé sauva Israël (...)",
           "i18n": {
             "en": "",
             "de": "",
@@ -2703,25 +2558,19 @@
             "ru": "",
             "ja": "",
             "zh": ""
+          },
+          "quote": {
+            "type": "scripture",
+            "book": "Exodus",
+            "chapter": 14,
+            "verses": [30],
+            "translation": "DHORME1956"
           }
         },
         {
           "n": 30,
           "speaker": "Intradiegetic Narrator",
-          "text": "Puis à travers le désert la faim se fit sentir dans le peuple",
-          "i18n": {
-            "en": "",
-            "de": "",
-            "es": "",
-            "ru": "",
-            "ja": "",
-            "zh": ""
-          }
-        },
-        {
-          "n": 31,
-          "speaker": "Intradiegetic Narrator",
-          "text": "élu :",
+          "text": "Puis à travers le désert la faim se fit sentir dans le peuple élu:",
           "i18n": {
             "en": "",
             "de": "",
@@ -2734,7 +2583,7 @@
         {
           "n": 32,
           "speaker": "Intradiegetic Narrator",
-          "text": "«(...) à la surface du désert il y eut une mince croûte (...)»",
+          "text": "(...) à la surface du désert il y eut une mince croûte (...)",
           "i18n": {
             "en": "",
             "de": "",
@@ -2742,19 +2591,13 @@
             "ru": "",
             "ja": "",
             "zh": ""
-          }
-        },
-        {
-          "n": 33,
-          "speaker": "Intradiegetic Narrator",
-          "text": "(Exode, XVI-14)",
-          "i18n": {
-            "en": "",
-            "de": "",
-            "es": "",
-            "ru": "",
-            "ja": "",
-            "zh": ""
+          },
+          "quote": {
+            "type": "scripture",
+            "book": "Exodus",
+            "chapter": 14,
+            "verses": [14],
+            "translation": "DHORME1956"
           }
         },
         {
@@ -2786,7 +2629,7 @@
         {
           "n": 36,
           "speaker": "Intradiegetic Narrator",
-          "text": "Ensuite, au chapitre XIX de l’Exode, il est énoncé un certain nombre de règles. Le peuple d’Israël, étant donné son niveau primitif, avait besoin de lois sur le plan moral et surtout sur le plan hygiénique. Elles sont énoncées dans les commandements. Les créateurs vinrent dicter ces lois à Moïse sur le Mont Sinaï. Ils descendirent dans un engin volant :",
+          "text": "Ensuite, au chapitre XIX de l’Exode, il est énoncé un certain nombre de règles. Le peuple d’Israël, étant donné son niveau primitif, avait besoin de lois sur le plan moral et surtout sur le plan hygiénique. Elles sont énoncées dans les commandements. Les créateurs vinrent dicter ces lois à Moïse sur le Mont Sinaï. Ils descendirent dans un engin volant:",
           "i18n": {
             "en": "",
             "de": "",
@@ -2799,7 +2642,7 @@
         {
           "n": 37,
           "speaker": "Intradiegetic Narrator",
-          "text": "«(...) il y eut des tonnerres, des éclairs et une lourde nuée sur la montagne, un son de cor très fort (...)» (Exode, XIX-16)",
+          "text": "(...) il y eut des tonnerres, des éclairs et une lourde nuée sur la montagne, un son de cor très fort (...)",
           "i18n": {
             "en": "",
             "de": "",
@@ -2807,12 +2650,19 @@
             "ru": "",
             "ja": "",
             "zh": ""
+          },
+          "quote": {
+            "type": "scripture",
+            "book": "Exodus",
+            "chapter": 19,
+            "verses": [16],
+            "translation": "DHORME1956"
           }
         },
         {
           "n": 38,
           "speaker": "Intradiegetic Narrator",
-          "text": "«or le Mont Sinaï était tout fumant, parce que sur lui était descendu Iahvé dans le feu, et sa fumée montait comme la fumée d’une fournaise : toute la montagne tremblait fort. Le son du cor allait en se renforçant de plus en plus, (...)». (Exode, XIX, 18-19)",
+          "text": "Or le Mont Sinaï était tout fumant, parce que sur lui était descendu Iahvé dans le feu, et sa fumée montait comme la fumée d’une fournaise : toute la montagne tremblait fort. Le son du cor allait en se renforçant de plus en plus, (...)",
           "i18n": {
             "en": "",
             "de": "",
@@ -2820,6 +2670,13 @@
             "ru": "",
             "ja": "",
             "zh": ""
+          },
+          "quote": {
+            "type": "scripture",
+            "book": "Exodus",
+            "chapter": 19,
+            "verses": [18, 19],
+            "translation": "DHORME1956"
           }
         },
         {
@@ -2838,7 +2695,7 @@
         {
           "n": 40,
           "speaker": "Intradiegetic Narrator",
-          "text": "«Le peuple ne pourra monter au Mont Sinaï (...) que les prêtres et le peuple ne se ruent pas pour monter vers Iahvé, de peur qu’il ne les abatte». (Exode, XIX, 23-24)",
+          "text": "Le peuple ne pourra monter au Mont Sinaï (...) que les prêtres et le peuple ne se ruent pas pour monter vers Iahvé, de peur qu’il ne les abatte.",
           "i18n": {
             "en": "",
             "de": "",
@@ -2846,12 +2703,19 @@
             "ru": "",
             "ja": "",
             "zh": ""
+          },
+          "quote": {
+            "type": "scripture",
+            "book": "Exodus",
+            "chapter": 19,
+            "verses": [23, 24],
+            "translation": "DHORME1956"
           }
         },
         {
           "n": 41,
           "speaker": "Intradiegetic Narrator",
-          "text": "«Moïse s’avancera seul vers Iahvé, mais les anciens d’Israël ne s’avanceront pas et le peuple ne montera pas avec lui !». (Exode, XXIV-2)",
+          "text": "Moïse s’avancera seul vers Iahvé, mais les anciens d’Israël ne s’avanceront pas et le peuple ne montera pas avec lui!",
           "i18n": {
             "en": "",
             "de": "",
@@ -2859,6 +2723,13 @@
             "ru": "",
             "ja": "",
             "zh": ""
+          },
+          "quote": {
+            "type": "scripture",
+            "book": "Exodus",
+            "chapter": 24,
+            "verses": [2],
+            "translation": "DHORME1956"
           }
         },
         {
