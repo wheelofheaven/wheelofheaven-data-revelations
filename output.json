@@ -11,11 +11,7 @@
     "ja": "真実を語る本",
     "zh": "说真话的书"
   },
-  "schema": [
-    "book",
-    "chapters",
-    "paragraphs"
-  ],
+  "schema": ["book", "chapters", "paragraphs"],
   "revision": 1,
   "updated": "2025-08-10T06:03:56Z",
   "chapters": [
@@ -33,7 +29,7 @@
       "paragraphs": [
         {
           "n": 1,
-          "speaker": "Narrator",
+          "speaker": "Primary Narrator",
           "text": "Depuis l’âge de neuf ans, je n’ai toujours eu qu’une passion : le sport automobile, et si j’ai créé une revue spécialisée dans cette branche voilà trois ans, c’est pour vivre dans ce milieu si excitant où l’homme cherche à se dépasser lui-même en dépassant les autres. Depuis ma plus tendre enfance je rêvais d’être un jour pilote de course et me voyais marchant sur les traces de Fangio. J’ai pu, grâce aux relations que m’a procurées le journal que j’ai fondé, courir moi-même et toujours d’une manière assez brillante, une dizaine de coupes ornant maintenant mon appartement.",
           "i18n": {
             "en": "Since the age of nine, I have had only one passion: motor racing. If I created a magazine devoted to this field three years ago, it was so I could live in that thrilling milieu where a person seeks to surpass himself by surpassing others. From my earliest childhood I dreamed of being a racing driver one day, following in Fangio’s footsteps. Thanks to the contacts my magazine brought me, I was able to race myself—and generally with some success; a dozen trophies now adorn my apartment.",
@@ -46,7 +42,7 @@
         },
         {
           "n": 2,
-          "speaker": "Narrator",
+          "speaker": "Primary Narrator",
           "text": "Si j’allais, ce matin du 13 décembre 1973, dans les volcans qui dominent Clermont-Ferrand, c’était plus pour m’oxygéner un peu que pour faire de la voiture. Et puis les jambes me démangeaient après une année à suivre les courses, de circuit en circuit, vivant presque tout le temps sur quatre roues.",
           "i18n": {
             "en": "On the morning of December 13, 1973, when I headed into the volcanoes overlooking Clermont-Ferrand, it was more to breathe some fresh air than to drive. And after a year spent following races, from circuit to circuit, living almost all the time on four wheels, my legs were itching.",
@@ -59,7 +55,7 @@
         },
         {
           "n": 3,
-          "speaker": "Narrator",
+          "speaker": "Primary Narrator",
           "text": "L’air était frais et le ciel plutôt gris avec un fond de brume. Je marchais et faisais un peu de «footing». J’avais quitté le chemin où j’avais garé ma voiture et m’étais fixé pour but d’aller jusqu’au centre du cratère du «Puy-de- Lassolas» où je venais souvent pique-niquer en famille, l’été. Quel lieu magnifique et exaltant. Penser que voici quelques milliers d’années, là où mes pieds touchaient le sol, la lave jaillissait à des températures incroyablement élevées… Parmi les scories on peut encore trouver des bombes volcaniques très décoratives. La végétation rabougrie fait un peu penser à la Provence, le soleil en moins… J’allais repartir et regardais une dernière fois les sommets de la montagne circulaire faite par l’amoncellement de scories. Que de fois je m’étais amusé à me laisser glisser comme à skis le long de ces pentes abruptes. Soudain, dans la brume, j’aperçus une lumière rouge clignotante, puis une espèce d’hélicoptère qui descendait vers moi. Mais un hélicoptère fait du bruit, or là, je n’entendais absolument rien, même pas le plus petit sifflement. Un ballon? L’engin était maintenant à une vingtaine de mètres d’altitude et je m’aperçus qu’il était de forme aplatie. Une soucoupe volante! J’y croyais fermement depuis longtemps mais je n’espérais pas en voir une moi-même un jour. Elle avait environ sept mètres de diamètre, plate au-dessous et conique au-dessus, haute d’environ deux mètres cinquante. À sa base, une violente lumière rouge clignotait et à son sommet une lumière blanche intermittente rappelait le flash d’un appareil photo. Cette lumière blanche était tellement intense que je ne pouvais la regarder sans cligner des yeux. L’engin continua de descendre sans un bruit et s’immobilisa à deux mètres du sol. J’étais pétrifié et restais absolument immobile. Je n’avais pas peur mais étais plein de joie de vivre un tel moment. Je regrettais amèrement de ne pas avoir d’appareil photo. Alors l’incroyable se produisit: une trappe s’ouvrit sous l’appareil et une espèce d’escalier se déplia jusqu’au sol. Je compris qu’un être allait en sortir et je me demandais quelle allure cela allait avoir.",
           "i18n": {
             "en": "The air was crisp and the sky rather gray, with a base of mist. I walked and did a bit of jogging. I had left the path where I had parked my car and set myself the goal of reaching the center of the crater of the Puy de Lassolas, where I often went in summer to picnic with my family. What a magnificent and exhilarating place. To think that a few thousand years ago, right where my feet touched the ground, lava was gushing at incredibly high temperatures… Among the scoria you can still find very decorative volcanic bombs. The stunted vegetation is a little reminiscent of Provence—minus the sun… I was about to leave and took one last look at the summit of the circular mountain made by heaps of scoria. How many times I had amused myself by sliding, as if on skis, down those steep slopes. Suddenly, through the mist, I noticed a flashing red light, then a sort of helicopter descending toward me. But a helicopter makes noise—and here I could hear absolutely nothing, not even the faintest whistle. A balloon? The craft was now about twenty meters up, and I realized it was flattened in shape. A flying saucer! I had believed in them firmly for a long time, but I had never hoped to see one myself. It was about seven meters in diameter, flat below and conical above, about two and a half meters high. At its base a violent red light flashed, and at its top an intermittent white light recalled a camera flash. That white light was so intense I couldn’t look at it without blinking. The craft continued to descend without a sound and came to a stop two meters above the ground. I was petrified and remained absolutely motionless. I wasn’t afraid, but filled with joy to be living such a moment. I bitterly regretted not having a camera. Then the incredible happened: a hatch opened beneath the craft and a kind of stairway unfolded to the ground. I understood that a being was about to emerge, and I wondered what it would look like.",
@@ -72,7 +68,7 @@
         },
         {
           "n": 4,
-          "speaker": "Narrator",
+          "speaker": "Primary Narrator",
           "text": "Deux pieds apparurent, puis deux jambes, ce qui me rassura un peu, car apparemment j’allais avoir à faire à un homme. Ce que je pris d’abord pour un enfant apparut enfin complètement, descendit l’escalier et se dirigea droit sur moi. Je vis alors que ce n’était pas un enfant malgré sa taille voisine d’un mètre vingt. Il avait les yeux légèrement bridés, les cheveux noirs et longs et une petite barbe noire. Il s’arrêta à une dizaine de mètres de moi. Je n’avais toujours pas bougé. Il portait une combinaison verte recouvrant tout son corps d’une seule pièce, et si sa tête avait l’air d’être à l’air libre, un étrange halo l’entourait. Pas vraiment un halo mais comme si l’air autour de son visage brillait légèrement et vibrait. Cela faisait comme un scaphandre invisible, comme une bulle tellement fine qu’on l’apercevrait à peine. Sa peau était blanche mais tirant légèrement sur le vert, un peu comme un homme qui aurait mal au foie. Il me sourit légèrement. Je pensais que le mieux était de répondre à ce sourire. Je n’étais pas tranquille. Je souris également et inclinai légèrement la tête en signe de bonjour. Il me répondit par le même signe. Pensant qu’il fallait que je voie s’il pouvait m’entendre, je lui demandai:",
           "i18n": {
             "en": "Two feet appeared, then two legs, which reassured me a little, for it seemed I was about to deal with a man. What I first took for a child finally appeared completely, came down the steps, and walked straight toward me. I then saw that it was not a child, despite a height of around one meter twenty. He had slightly slanted eyes, long black hair, and a small black beard. He stopped about ten meters from me. I still hadn’t moved. He wore a green one-piece suit covering his whole body, and though his head seemed bare, a strange halo surrounded it—not exactly a halo, more as if the air around his face shone faintly and vibrated. It was like an invisible diving helmet, a bubble so thin you could hardly see it. His skin was white with a slight greenish tinge, like a man with a bad liver. He smiled faintly at me. I thought the best thing was to answer his smile. I was not at ease. I smiled back and inclined my head slightly in greeting. He replied with the same gesture. Thinking I should see if he could hear me, I asked him:",
@@ -98,7 +94,7 @@
         },
         {
           "n": 6,
-          "speaker": "Narrator",
+          "speaker": "Primary Narrator",
           "text": "Il me répondit d’une voix puissante, très bien articulée mais légèrement nasillarde:",
           "i18n": {
             "en": "He answered in a powerful voice, very clearly articulated but slightly nasal:",
@@ -176,7 +172,7 @@
         },
         {
           "n": 12,
-          "speaker": "Narrator",
+          "speaker": "Primary Narrator",
           "text": "En parlant il s’était approché à environ deux mètres de moi.",
           "i18n": {
             "en": "As he spoke, he had moved to within about two meters of me.",
@@ -345,7 +341,7 @@
         },
         {
           "n": 25,
-          "speaker": "Narrator",
+          "speaker": "Primary Narrator",
           "text": "Je ne sais pas... envie de faire un peu de marche au grand air...",
           "i18n": {
             "en": "I don’t know… I felt like taking a little walk in the open air…",
@@ -527,7 +523,7 @@
         },
         {
           "n": 39,
-          "speaker": "Narrator",
+          "speaker": "Primary Narrator",
           "text": "Je le suivis et montais par le petit escalier situé sous l’engin. A voir de plus près, cela ressemblait un peu à une cloche aplatie dont le dessous serait plein et bombé. Il y avait à l’intérieur deux fauteuils face à face et la température était douce sans que la porte soit fermée. Il n’y avait pas de lampe mais une lumière naturelle qui venait de partout. Il n’y avait aucun instrument de bord rappelant une cabine de pilotage. Le plancher était fait d’un alliage étincelant et un peu bleuté. Une fois que je fus assis dans le fauteuil le plus grand mais le plus bas, fauteuil fait d’une seule matière un peu transparente, incolore et très confortable, le petit homme s’installa en face de moi, dans un siège semblable mais plus petit et plus haut afin que son visage soit au même niveau que le mien. Il toucha alors une partie du mur et tout l’appareil devint transparent, sauf sa base et son sommet. Nous étions comme en plein air mais dans une douce chaleur. Il me proposa d’enlever mon manteau, ce que je fis et il parla.",
           "i18n": {
             "en": "I followed him and climbed the small staircase underneath the craft. Seen closer, it looked somewhat like a flattened bell with a solid, domed underside. Inside there were two armchairs facing each other, and the temperature was mild even though the door was open. There was no lamp, but a natural light that seemed to come from everywhere. There were no instruments suggesting a cockpit. The floor was made of a sparkling, slightly bluish alloy. Once I had sat down in the larger but lower armchair, made of a single slightly transparent, colorless, and very comfortable material, the little man sat facing me in a similar seat, smaller but higher so that his face was level with mine. He then touched part of the wall, and the whole craft became transparent, except for its base and its top. We were as if in the open air, but in a gentle warmth. He suggested I take off my coat, which I did, and he spoke.",
@@ -826,7 +822,7 @@
         },
         {
           "n": 62,
-          "speaker": "Narrator",
+          "speaker": "Primary Narrator",
           "text": "Il me laissa redescendre par le petit escalier, me rendit mon manteau et me salua de la main. L’escalier se replia, la trappe se referma sans le moindre bruit et, toujours sans un murmure ni le plus infime sifflement, l’appareil s’éleva doucement jusqu’à environ 400 mètres puis disparut dans la brume.",
           "i18n": {
             "en": "He let me go back down the little stairway, handed me my coat, and waved goodbye. The stairway folded up, the hatch closed without the slightest sound, and, still without a murmur or even the faintest whistle, the craft rose gently to about four hundred meters, then disappeared into the mist.",
@@ -842,60 +838,159 @@
     {
       "n": 2,
       "title": "La Vérité",
+      "i18n": {
+        "en": "",
+        "de": "",
+        "es": "",
+        "ru": "",
+        "ja": "",
+        "zh": ""
+      },
       "paragraphs": [
         {
           "n": 1,
-          "speaker": null,
-          "text": "LA ToUR DE BABEL"
+          "speaker": "Primary Narrator",
+          "text": "Le lendemain, j’étais au rendez-vous avec un cahier, un stylo et la Bible. L’engin réapparut à l’heure dite et je me retrouvai face au même petit homme qui m’invita à entrer et à prendre place dans le confortable fauteuil. Je n’avais parlé de tout cela à personne, même pas à mes proches et il fut heureux d’apprendre que j’étais resté discret. Il m’invita à prendre des notes et commença à parler.",
+          "i18n": {
+            "en": "",
+            "de": "",
+            "es": "",
+            "ru": "",
+            "ja": "",
+            "zh": ""
+          }
         },
         {
           "n": 2,
-          "speaker": null,
-          "text": "SoDoME ET GoMoRRHE"
+          "speaker": "Intradiegetic Narrator",
+          "text": "Il y a très longtemps, sur notre planète lointaine, les hommes étaient arrivés à un niveau technique et scientifique comparable à celui que vous aurez bientôt. Ils commencèrent à créer des formes primitives et embryon- naires de vie, des cellules vivantes en éprouvettes. Cela «emballa» tout le monde. Ils perfectionnèrent leurs techniques et arrivèrent à créer de petits animaux bizarres, quand l’opinion publique de notre planète et le gouvernement interdirent à ces savants de poursuivre leurs expériences et de créer des monstres qui pouvaient devenir dangereux pour la communauté. Un de ces animaux s’était en effet évadé et avait fait plusieurs victimes. Comme, parallèlement, l’exploration interplanétaire et intergalactique avaient progressé, ils décidèrent de partir sur une planète lointaine, réunissant à peu près toutes les conditions pour qu’ils puissent y poursuivre leurs expériences. Ils choisirent la Terre où vous vivez. C’est là que je vous demande de prendre la Bible, où vous pourrez retrouver les traces de la vérité qui ont bien sûr été un peu déformées par les copistes, qui n’arrivaient pas à concevoir technologiquement de telles choses et ne pouvaient qu’attribuer au mystique et au surnaturel ce qui était décrit.",
+          "i18n": {
+            "en": "",
+            "de": "",
+            "es": "",
+            "ru": "",
+            "ja": "",
+            "zh": ""
+          }
         },
         {
           "n": 3,
-          "speaker": null,
-          "text": "Le lendemain, j’étais au rendez-vous avec un cahier, un stylo et la Bible. L’engin réapparut à l’heure dite et je me retrouvai face au même petit homme qui m’invita à entrer et à prendre place dans le confortable fauteuil. Je n’avais parlé de tout cela à personne, même pas à mes proches et il fut heureux d’apprendre que j’étais resté discret. Il m’invita à prendre des notes et commença à parler."
+          "speaker": "Intradiegetic Narrator",
+          "text": "Seules les parties de la Bible que je vais vous traduire sont importantes. Les autres, qui ne sont que des bavardages poétiques, je ne vous en parlerai pas. Reconnaissez tout de même que grâce à la loi qui disait qu’il fallait recopier la Bible sans rien en changer, même pas le plus petit signe, le sens profond est resté même si le texte s’est chargé de phrases mystiques et inutiles au fil des millénaires.",
+          "i18n": {
+            "en": "",
+            "de": "",
+            "es": "",
+            "ru": "",
+            "ja": "",
+            "zh": ""
+          }
         },
         {
           "n": 4,
-          "speaker": null,
-          "text": "«Il y a très longtemps, sur notre planète lointaine, les hommes étaient arrivés à un niveau technique et scientifique comparable à celui que vous aurez bientôt. Ils commencèrent à créer des formes primitives et embryon- naires de vie, des cellules vivantes en éprouvettes. Cela «emballa» tout le monde. Ils perfectionnèrent leurs techniques et arrivèrent à créer de petits animaux bizarres, quand l’opinion publique de notre planète et le gouvernement interdirent à ces savants de poursuivre leurs expériences et de créer des monstres qui pouvaient devenir dangereux pour la communauté. Un de ces animaux s’était en effet évadé et avait fait plusieurs victimes. Comme, parallèlement, l’exploration interplanétaire et intergalactique avaient progressé, ils décidèrent de partir sur une planète lointaine, réunissant à peu près toutes les conditions pour qu’ils puissent y poursuivre leurs expériences. Ils choisirent la Terre où vous vivez. C’est là que je vous demande de prendre la Bible, où vous pourrez retrouver les traces de la vérité qui ont bien sûr été un peu déformées par les copistes, qui n’arrivaient pas à concevoir technologiquement de telles choses et ne pouvaient qu’attribuer au mystique et au surnaturel ce qui était décrit."
+          "speaker": "Intradiegetic Narrator",
+          "text": "Prenez d’abord la Genèse, au premier chapitre:",
+          "i18n": {
+            "en": "",
+            "de": "",
+            "es": "",
+            "ru": "",
+            "ja": "",
+            "zh": ""
+          }
         },
         {
           "n": 5,
-          "speaker": null,
-          "text": "Seules les parties de la Bible que je vais vous traduire sont importantes. Les autres, qui ne sont que des bavardages poétiques, je ne vous en parlerai pas. Reconnaissez tout de même que grâce à la loi qui disait qu’il fallait recopier la Bible sans rien en changer, même pas le plus petit signe, le sens profond est resté même si le texte s’est chargé de phrases mystiques et inutiles au fil des millénaires."
+          "speaker": "Intradiegetic Narrator",
+          "text": "Au commencement Elohim créa les cieux et la terre.",
+          "i18n": {
+            "en": "",
+            "de": "",
+            "es": "",
+            "ru": "",
+            "ja": "",
+            "zh": ""
+          },
+          "quote": {
+            "type": "scripture",
+            "book": "Genesis",
+            "chapter": 1,
+            "verse": 1,
+            "osis": "Gen.1.1",
+            "translation": "DHORME1956"
+          }
         },
         {
           "n": 6,
-          "speaker": null,
-          "text": "Prenez d’abord la Genèse, au premier chapitre : «Au com-"
+          "speaker": "Intradiegetic Narrator",
+          "text": "Elohim, injustement traduit dans certaines Bibles par Dieu, veut dire en Hébreu «ceux qui sont venus du ciel» et est bel et bien au pluriel. Cela veut dire que les scientifiques issus de notre monde ont d’abord recherché la planète leur paraissant la plus apte à la réalisation de leurs projets. Ils ont «créé», découvert en réalité, la terre et se sont rendus compte qu’elle réunissait tous les éléments nécessaires à la création d’une vie artificielle même si son atmosphère n’était pas tout à fait identique à la leur.",
+          "i18n": {
+            "en": "",
+            "de": "",
+            "es": "",
+            "ru": "",
+            "ja": "",
+            "zh": ""
+          }
         },
         {
           "n": 7,
-          "speaker": null,
-          "text": "mencement Elohim créa les cieux et la terre». (Genèse, I-1)"
+          "speaker": "Intradiegetic Narrator",
+          "text": "Et l’esprit d’Elohim planait au-dessus des eaux.",
+          "i18n": {
+            "en": "",
+            "de": "",
+            "es": "",
+            "ru": "",
+            "ja": "",
+            "zh": ""
+          },
+          "quote": {
+            "type": "scripture",
+            "book": "Genesis",
+            "chapter": 1,
+            "verse": 2,
+            "osis": "Gen.1.2",
+            "translation": "DHORME1956"
+          }
         },
         {
           "n": 8,
-          "speaker": null,
-          "text": "Elohim, injustement traduit dans certaines Bibles par Dieu, veut dire en Hébreu «ceux qui sont venus du ciel» et est bel et bien au pluriel. Cela veut dire que les scientifiques issus de notre monde ont d’abord recherché la planète leur paraissant la plus apte à la réalisation de leurs projets. Ils ont «créé», découvert en réalité, la terre et se sont rendus compte qu’elle réunissait tous les éléments nécessaires à la création d’une vie artificielle même si son atmosphère n’était pas tout à fait identique à la leur."
+          "speaker": "Intradiegetic Narrator",
+          "text": "Ils effectuèrent des voyages de reconnaissance et ce que vous pourriez appeler des satellites artificiels étaient mis en place autour de la Terre afin d’en étudier la constitution et l’atmosphère. La Terre était alors entièrement recouverte d’eau et de brumes épaisses.",
+          "i18n": {
+            "en": "",
+            "de": "",
+            "es": "",
+            "ru": "",
+            "ja": "",
+            "zh": ""
+          }
         },
         {
           "n": 9,
-          "speaker": null,
-          "text": "«Et l’esprit d’Elohim planait au-dessus des eaux»."
+          "speaker": "Intradiegetic Narrator",
+          "text": "Elohim vit que la lumière était bonne.",
+          "i18n": {
+            "en": "",
+            "de": "",
+            "es": "",
+            "ru": "",
+            "ja": "",
+            "zh": ""
+          },
+          "quote": {
+            "type": "scripture",
+            "book": "Genesis",
+            "chapter": 1,
+            "verse": 4,
+            "osis": "Gen.1.4",
+            "translation": "DHORME1956"
+          }
         },
         {
           "n": 10,
-          "speaker": null,
-          "text": "Ils effectuèrent des voyages de reconnaissance et ce que vous pourriez appeler des satellites artificiels étaient mis en place autour de la Terre afin d’en étudier la constitution et l’atmosphère. La Terre était alors entièrement recouverte d’eau et de brumes épaisses. «Elohim vit que la lumière était bonne». (Genèse, I-4)"
-        },
-        {
-          "n": 11,
-          "speaker": null,
+          "speaker": "Intradiegetic Narrator",
           "text": "Il était important, pour créer la vie sur la Terre, de savoir si le soleil n’envoyait pas de rayons nocifs à sa surface, ce qui"
         },
         {
